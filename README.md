@@ -1,3 +1,3 @@
 # ThincrsRepo
 
-** Haciendo pruebas en el repositorio, primer comit. **
+**Haciendo pruebas en el repositorio, primer comit.**
